@@ -11,5 +11,6 @@ public class Main {
         System.out.println("vice modify");
         System.out.println("vice update1");
         System.out.println("master update1");
+        System.out.println("local update");
     }
 }
