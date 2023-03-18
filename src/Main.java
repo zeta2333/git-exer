@@ -13,5 +13,6 @@ public class Main {
         System.out.println("master update1");
         System.out.println("local update");
         System.out.println("github update");
+        System.out.println("master update2");
     }
 }
